@@ -1,0 +1,6 @@
+The 3 fuctionality pieces
+1) Be able to add products to basket and track quantity
+
+2) Iteraction VIA Review Submission or email subscription
+
+3) Have a courasel to show multiple Items/products
